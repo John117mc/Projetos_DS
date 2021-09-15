@@ -1,2 +1,2 @@
-# Data_Science_Portfolio_Projects
-Projetos de Portfólio de Data Science
+# Data Science Projects
+Projetos de Data Science
