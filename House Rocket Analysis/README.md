@@ -73,5 +73,5 @@ O lucro total obtido foi de: **US$ 2.016.458.904.40**
 O plano desse projeto era de gerar descobertas (insights) utilizando ferramentas de visualização e de cálculos, sendo assim, foi possível resolver os problemas e ajudar o time de negócios em suas decisões podendo melhorar suas aquisições no ramo do mercado imobiliário.
 
 ## 7- Next Steps to Improve
-* Adicionar filtros na aplicativo web.
+* Adicionar filtros na aplicação web.
 * Fazer uma análise de dados mais robusta.
