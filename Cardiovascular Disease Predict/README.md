@@ -3,7 +3,6 @@
   <img  width="1000px" height="570" src="https://github.com/joaovitps/Data_Science_Projects/blob/main/Cardiovascular%20Disease%20Predict/image/cardio.jpg">
 </p>
 
-# Cardiovascular Disease Predict
 Predição de Doenças Cardiovasculares.
 
 ## 1- Business Problem
