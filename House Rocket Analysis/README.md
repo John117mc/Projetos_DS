@@ -1,7 +1,9 @@
+# HOUSE DATA ANALYSIS
+
 <p align="center">
-  <img  width="1000px" height="570" src="https://github.com/joaovitps/Data_Science_Projects/blob/main/House%20Rocket%20Analysis/image/house.jpg">
+  <img  width="1000px" height="350" src="https://c4.wallpaperflare.com/wallpaper/407/577/249/house-city-building-neighborhood-wallpaper-preview.jpg">
 </p>
-Gerar Insights acionáveis para o time de negócio.
+
 
 ## 1- Business Problem
 O CEO da House Rocket Company, deseja comprar casas com preço baixo e revende-lás com o preço mais alto. Encontre bons negócios dentro do portfólio disponível, ou seja, encontrar casas com preço baixo, em ótima localização e que tenham um ótimo potencial de venda
