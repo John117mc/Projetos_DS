@@ -1,0 +1,93 @@
+/**
+* Template Name: Multi - v4.7.0
+* Template URL: https://bootstrapmade.com/multi-responsive-bootstrap-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+#header {
+  background: #0f2f57;
+  transition: all 0.5s;
+  z-index: 997;
+  padding: 20px 0;
+}
+
+section {
+  padding: 20px 0;
+}
+
+.section-bg {
+  background-color: #f6f9fd;
+}
+
+.section-title {
+  padding-bottom: 40px;
+}
+.section-title h2 {
+  font-size: 24px;
+  font-weight: 500;
+  padding: 10px;
+  line-height: 5px;
+  margin: 0 0 5px 0;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #e4ce0d;
+  font-family: "Poppins", sans-serif;
+}
+
+.section-title h1 {
+  margin: 0;
+  margin: 0;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #0f2f57;
+}
+
+.contact .form {
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  padding: 30px;
+  background: #fff;
+}
+
+.contact .form input, .contact .form textarea, .contact .form select {
+  border-radius: 1px;
+  box-shadow: none;
+  font-size: 16px;
+  border-radius: 4px;
+}
+.contact .form input:focus, .contact .form textarea:focus, .contact .form select:focus {
+  border-color: #e4ce0d;
+}
+.contact .form input:hover, .contact .form textarea:hover, .contact .form select:hover {
+  border-color: #e4ce0d;
+}
+.contact .form input {
+  padding: 10px 15px;
+}
+.contact .form textarea {
+  padding: 12px 15px;
+}
+.contact .form select{
+  padding: 10px 15px;
+}
+.contact .form button[type=submit] {
+  background: #e4ce0d;
+  border: 2;
+  padding: 10px 30px;
+  border-radius: 4px;
+  color: #e4ce0d;
+  transition: 0.4s;
+}
+.contact .form button[type=submit]:hover {
+  background: #e4ce0d;
+}
