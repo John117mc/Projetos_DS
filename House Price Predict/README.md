@@ -8,7 +8,7 @@
 
 
 ## 1- Business Problem
-O CEO da **House Moon Company**(fictÍcio), deseja comprar casas com preço baixo e revende-lás com o preço mais alto. Encontre bons negócios dentro do portfólio disponível, ou seja, encontrar casas com preço baixo, que tenham um ótimo potencial de venda.
+O CEO da **House Moon Company**(fictício), deseja comprar casas com preço baixo e revende-lás com o preço mais alto. Encontre bons negócios dentro do portfólio disponível, ou seja, encontrar casas com preço baixo, que tenham um ótimo potencial de venda.
 
 ### Main Objective:
 Uma vez o imóvel comprado, qual o melhor preço para vendê-lo?
