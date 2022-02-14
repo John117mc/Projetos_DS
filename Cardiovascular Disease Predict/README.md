@@ -1,9 +1,9 @@
+# CARDIOVASCULAR DISEASE PREDICT
 
 <p align="center">
-  <img  width="1000px" height="570" src="https://github.com/joaovitps/Data_Science_Projects/blob/main/Cardiovascular%20Disease%20Predict/image/cardio.jpg">
+  <img  width="1000px" height="350" src="https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2020/11/90-2.jpg">
 </p>
 
-Predição de Doenças Cardiovasculares.
 
 ## 1- Business Problem
 A **Cardio Catch Diseases** (fictício) é uma empresa especializada em detecção de doenças cardíacas em estágios iniciais. 
